@@ -1,0 +1,15 @@
+#tagcloud div
+{
+  position: relative;
+  float: left;
+  color: #000;
+  padding: 8px;
+  margin: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  cursor: pointer;
+}
+#tagcloud div a
+{
+  text-decoration: none;
+}
